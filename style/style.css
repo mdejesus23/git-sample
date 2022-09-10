@@ -6,3 +6,11 @@
     border-radius: 3px;
 
 }
+
+.button-v2 {
+    background-color: blue;
+    color: white;
+    padding: 5px 8px;
+    border: none;
+    border-radius: 3px;
+}
